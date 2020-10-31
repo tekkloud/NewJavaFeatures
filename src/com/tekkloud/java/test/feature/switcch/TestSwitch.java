@@ -13,7 +13,7 @@ public class TestSwitch {
         {
             return switch (input) {
                 case "a", "b":
-                    yield 1;
+                    yield 3;
                 case "test":
                     yield 2;
                 case "omg":
