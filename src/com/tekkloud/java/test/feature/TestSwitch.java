@@ -22,7 +22,7 @@ public class TestSwitch {
                     System.out.println("This is multiline lamba");
                     yield 9;
                 default:
-                    yield 0;
+                    yield 1;
             };
         }
 
