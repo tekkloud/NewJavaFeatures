@@ -1,4 +1,4 @@
-package com.tekkloud.java.test.feature;
+package com.tekkloud.java.test.feature.switcch;
 
 public class TestSwitch {
 
